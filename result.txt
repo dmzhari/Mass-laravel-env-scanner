@@ -1,3 +1,1 @@
-[+] URL : http://www.youplusplus.net/club/.env
 
-[+] URL : http://www.youplusplus.net/club/.env.example
